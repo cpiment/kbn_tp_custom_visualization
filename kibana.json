@@ -1,0 +1,13 @@
+{
+  "id": "testTpCustomVisualizations",
+  "version": "0.0.1",
+  "kibanaVersion": "kibana",
+  "requiredPlugins": [
+    "expressions",
+    "visualizations",
+    "data"
+  ],
+  
+  "server": false,
+  "ui": true
+}
